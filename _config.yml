@@ -11,9 +11,9 @@ title                    : "Ziqi Ma / Personal Page"
 title_separator          : "-"
 name                     : &name "Ziqi Ma"
 description              : &description "personal description"
-url                      : https://GuoyuloveSunshine.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ZiqiLoveSunshine.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "GuoyuloveSunshine/GuoyuloveSunshine.github.io"
+repository               : "ZiqiLoveSunshine/ZiqiLoveSunshine.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -73,12 +73,12 @@ analytics:
 author:
   name             : "Ziqi Ma"
   avatar           : "profile.jpg"
-  bio              : "Master of Information Engineering at Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  bio              : "Doctorant of Information Engineering at ENSTA, IP-Paris"
+  location         : "Palaiseau, France"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow" 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "ziqi_ma@163.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -87,14 +87,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "GuoyuloveSunshine"
+  github           : "ZiqiLoveSunshine"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "0009-0006-6775-4263"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "10324633"
