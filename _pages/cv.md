@@ -73,16 +73,16 @@ redirect_from:
   * Main work: Studying the pose of camera, using SIFT and ORB algorithms to find and match feature points of sequential frame
 
 ## WORK EXPERIENCES
-* **03/2025-06/2025 &ensp;&ensp; Teaching Assistant** | C Language | ENSTA, IP-Paris
+* **03/2025-06/2025 &ensp;&ensp; Teaching Assistant** in C Language, ENSTA, IP-Paris
   * Main work: Proposing C Project, answering questions, evaluating and noting.
-* **03/2023-06/2023 &ensp;&ensp; Teaching Assistant** | Mobile Robotics | SPEIT, Shanghai Jiao Tong University
+* **03/2023-06/2023 &ensp;&ensp; Teaching Assistant** in Mobile Robotics, SPEIT, SJTU
   * Main work: Teaching students exercise courses, helping teachers correct homework, proctoring the exam.
 
 
 ## SUMMER SCHOOL EXPERIENCES                                                           
-* **30/06/2024-05/07/2024 ETH RobotX Summer School** | Epeisses | Switzerland
+* **30/06/2024-05/07/2024 ETH RobotX Summer School**, Epeisses, Switzerland
   * Lectures (8 hours), tutorials (10 hours), research talks (3 hours) and student hands-on work on robotic platforms (at least 28 hours), with a focus on state estimation, localization and mapping, trajectory optimization, path planning, exploration and camera modeling and geometry.
-* **08/06/2024-10/06/2024 AERO-TRAIN Summer School** | Chania | Greece
+* **08/06/2024-10/06/2024 AERO-TRAIN Summer School**, Chania, Greece
   * Lectures on Perception, planning, control and Human-Robot Interaction.
 
 ## HONORS & AWARDS
