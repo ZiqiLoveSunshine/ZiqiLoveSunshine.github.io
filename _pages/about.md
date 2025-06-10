@@ -10,11 +10,13 @@ redirect_from:
 
 ## Academic
 
-I am currently a PhD student supervised by [Sao Mai NGUYEN](http://nguyensmai.free.fr/Home.html) and [Philippe XU](https://perso.ensta-paris.fr/~philippe.xu/)in [U2IS](http://u2is.ensta-paris.fr/?lang=en), [ENSTA](https://www.ensta-paris.fr/), [IP-Paris](https://www.ip-paris.fr/). My research interest is about reinforcement learning and robotics.
+I am currently a PhD student supervised by [Sao Mai NGUYEN](http://nguyensmai.free.fr/Home.html) and [Philippe XU](https://perso.ensta-paris.fr/~philippe.xu/) in [U2IS](http://u2is.ensta-paris.fr/?lang=en), [ENSTA](https://www.ensta-paris.fr/), [IP-Paris](https://www.ip-paris.fr/). My research interest is about reinforcement learning and robotics.
 
 - Active Imitation learning on robotics.
   
-- Reinforcement learning based manipulation for robot arms. 
+- Reinforcement learning based manipulation for robot arms.
+
+- Long-horizon robot task.
 
 - Human robot interaction.
 

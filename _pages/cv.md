@@ -11,15 +11,15 @@ redirect_from:
 
 <h1 style="text-align:center">Ziqi Ma</h1>
 
-* **Birth of Date: 05/06/1999**
+
 * **Email: ziqi_ma0605@163.com**
 * **Cell: +33 06 27 57 46 33**
-* **Address： Shanghai Jiao Tong University No.800 Dongchuan Road, Shanghai 200240, China.**
+* **Address： 828 Bd des Maréchaux, 91120 Palaiseau, France**
 
 
 ## AREAS OF INTERESTS
 
--  **Reinforcement Learning**, **Imitation Learning**, **Humain Robot Interaction**, **Robot Manipulation**
+-  **Reinforcement Learning, Imitation Learning, Humain Robot Interaction, Long-horizon Robot Task**
 
 
 ## EDUCATIONS
