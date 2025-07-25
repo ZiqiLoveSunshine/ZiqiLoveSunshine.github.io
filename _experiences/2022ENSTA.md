@@ -22,7 +22,8 @@ The Keraal project aims to develop a physiotherapist robot called Poppy capable 
 ## Motion retargeting
 ![](../images/cycle-en.png)
 ![](../images/ende-en.png)
-> The architecture of two networks
+
+> The architecture of two networks, this part is also accepted by a HRI workshop, see the [article](https://arxiv.org/abs/2402.05115) and [code](https://github.com/ZiqiLoveSunshine/Unsupervised-Motion-Retargeting-for-Human-Robot-Imitation) for details.
 
 ## Video Presentation
 <figure class="video_container">
@@ -36,4 +37,5 @@ The Keraal project aims to develop a physiotherapist robot called Poppy capable 
 </figure> -->
 
 ## Files download
-You can download the [report](http://GuoyuloveSunshine.github.io/files/PRe.pdf) of this project, and the [poster](http://GuoyuloveSunshine.github.io/files/Poster.pdf) of this project.
+You can download the [report](http://ZiqiLoveSunshine.github.io/files/PRe.pdf) of this project, and the [poster](http://ZiqiLoveSunshine.github.io/files/Poster.pdf) of this project.
+

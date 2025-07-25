@@ -43,7 +43,8 @@ redirect_from:
 ## PUBLICATIONS
 * Annabi, L., **Ma, Z.**, and Nguyen, S. M. (2024). **Unsupervised Motion Retargeting for Human-Robot Imitation**. Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (587--591). Association for Computing Machinery (rank A conference)
 
-* **Ziqi Ma**, Changda Tian, Yue Gao, **Manipulate as Human: Learning task-oriented manipulation skills by adversarial motion priors**, accepted by ROBOTICA-2025.
+* **Ma Z**, Tian C, Gao Y. **Manipulate as human: learning task-oriented manipulation skills by adversarial motion priors.** Robotica. Published online 2025:1-13. doi:10.1017/S0263574725001444
+
 
 
 ## INTERSHIPS
