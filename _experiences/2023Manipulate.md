@@ -37,5 +37,6 @@ Overall, our approach represents a significant step towards developing robots an
 
 ### Article and Code
 
-> See the article: https://www.cambridge.org/core/journals/robotica/article/manipulate-as-human-learning-taskoriented-manipulation-skills-by-adversarial-motion-priors/74AC9205DD0BB47D7905E4764B4E61F2
-> See the code: https://github.com/ZiqiLoveSunshine/Manipulate_as_Human-AMP
+See the article: https://www.cambridge.org/core/journals/robotica/article/manipulate-as-human-learning-taskoriented-manipulation-skills-by-adversarial-motion-priors/74AC9205DD0BB47D7905E4764B4E61F2
+
+See the code: https://github.com/ZiqiLoveSunshine/Manipulate_as_Human-AMP
