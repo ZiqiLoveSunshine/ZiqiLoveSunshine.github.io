@@ -1,14 +1,11 @@
 ---
 title: "Detection and Imitation of human movement by humanoid robot"
-collection: Experiences
+collection: 'experiences'
 permalink: /experiences/2022Keraal
 date: "Feb. 2022 - Sep. 2022"
-venue: 'ENSTA Paris, France'
+venue: "ENSTA Paris, France"
 citation: 'Annabi, L., Ma, Z., and Nguyen, S. M. (2024). Unsupervised Motion Retargeting for Human-Robot Imitation. Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (587--591). Association for Computing Machinery (rank A conference)'
 ---
-
-## Introduction
-
 The Keraal project aims to develop a physiotherapist robot called Poppy capable of “coaching” patients during their rehabilitation sessions. Our work is a part of the Keraal project to improve the capability of the Poppy robot. The objective of our work is to detect and imitate human movements by the Poppy robot. Firstly, we try the Blazepose library to detect human skeletons in the collected videos, and we compare the results with those made by the Kinect, Openpose and Vicon library and calculate the differences. We choose the Kinect library as the most suitable library for imitation work. After obtaining the human motions, we build a learning model to apply motion retargeting between two characters. We test the model on animation data from Mixamo, then analyze the performance and propose a method to improve. 
 
 
