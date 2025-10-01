@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Two Person Emotion Interaction Detection and Generation on Video Sequences"
 collection: Publications
 permalink: /publications/Bachelor
@@ -17,4 +17,4 @@ model have better performance than adversarial model.
 > The architecture of GRU network
 
 ![](../images/GAN.png)
-> The architecture of GAN
+> The architecture of GAN -->
