@@ -62,68 +62,68 @@ International conference on robotics and automation (ICRA).
 
 ## INTERSHIPS
 
-* **Jul. 2023 - Nov. 2023 &ensp;&ensp; ABB** Mega Factory, Shanghai, China | Department: CRR, R&D 
+* **Jul. 2023 - Nov. 2023 &ensp;&ensp; ABB** Mega Factory, Shanghai, China \| Department: CRR, R&D 
   * Sign language learning by dual-arm robot.
   * Generating sign language movement by “Word-to-Sign” application.
   * Using deep neural network to transfer the movement of human to robot YuMi.
 
-* **Jun. 2020 - Sep. 2020 &ensp;&ensp; Air Liquide** Company, Shanghai, China | Department: Data Science, R&D
+* **Jun. 2020 - Sep. 2020 &ensp;&ensp; Air Liquide** Company, Shanghai, China \| Department: Data Science, R&D
   * Optimizing distribution plan.
   * Finding the optimal parameters tuning of clustering algorithm, DBSCAN, to gather the client with similar characteristic.
 
 
 
 ## RESEARCH EXPERIENCES
-* **Nov. 2024 - Present &ensp;&ensp; Active Learning and Hierarchical Reinforcement Learning** | Supervisor: Sao Mai NGUYEN and Philippe XU | U2IS, ENSTA, IP-Paris
+* **Nov. 2024 - Present &ensp;&ensp; Active Learning and Hierarchical Reinforcement Learning** \| Supervisor: Sao Mai NGUYEN and Philippe XU \| U2IS, ENSTA, IP-Paris
   * Research on a Spatial and Temporal HRL algorithm.
   * Research on the alignment capacity of LLM on human language and emergent learning agent.
   * Combining LLM and Active Imitation Learning into HRL to improve training performance.
 
-* **Oct. 2023 - Mar. 2024 &ensp;&ensp; 3D manipulation field descriptor** | Supervisor: Yue GAO | AI Institute, Shanghai Jiao Tong University
+* **Oct. 2023 - Mar. 2024 &ensp;&ensp; 3D manipulation field descriptor** \| Supervisor: Yue GAO \| AI Institute, Shanghai Jiao Tong University
   * Using cameras to construct a 3D descriptor field for complex manipulation scenario.
   * The 3D field descriptor can output semantic and geometric information, including instance masks, dense semantic features and signed distance to the surface, related to arbitrary point in real 3D world coordinate
   * Tracking the dynamic trajectory of moving object based on semantic and geometric information
 
-* **Oct. 2022 - Sep. 2023 &ensp;&ensp; Human-like manipulation skill learning** | Supervisor: Yue GAO | AI Institute, Shanghai Jiao Tong University
+* **Oct. 2022 - Sep. 2023 &ensp;&ensp; Human-like manipulation skill learning** \| Supervisor: Yue GAO \| AI Institute, Shanghai Jiao Tong University
   * Detecting the keypoint of human joint and tools on human skill video clips as motion prior.
   * Learning human-like manipulation policy by RL algorithm with adversarial motion prior.
   * The design of reward function is the sum of goal reward and style reward, where goal reward represents whether the action achieves the goal and style rewards represent whether the state transition has the same distribution of motion priors. 
 
-* **May. 2022 - Aug. 2022 &ensp;&ensp; Unsupervised Human-robot motion retargeting** | Supervisor: Sao Mai NGUYEN | U2IS, ENSTA, IP-Paris
+* **May. 2022 - Aug. 2022 &ensp;&ensp; Unsupervised Human-robot motion retargeting** \| Supervisor: Sao Mai NGUYEN \| U2IS, ENSTA, IP-Paris
   * Assembling robot Poppy.
   * Detecting human skeletons of collected video by Blazepose library.
   * Comparing the results detected by Blazepose with those by Kinect, Openpose, Vicon.
   * Constructing self-supervised network to transfer movement between two personages.
 
-* **Jan. 2021 - Jun. 2021 &ensp;&ensp; Research on two person emotion interaction detection and generation on video sequences** | Independent Research | Shanghai Jiao Tong University
+* **Jan. 2021 - Jun. 2021 &ensp;&ensp; Research on two person emotion interaction detection and generation on video sequences** \| Independent Research \| Shanghai Jiao Tong University
   * Using LSTM network and human interaction dataset to predict the next movement of one agent.
 
-* **Feb. 2020 - Jun. 2020 &ensp;&ensp; Research about 3D point-cloud reconstruction of SJTU campus virtual map** | Independent Research |  Shanghai Jiao Tong University
+* **Feb. 2020 - Jun. 2020 &ensp;&ensp; Research about 3D point-cloud reconstruction of SJTU campus virtual map** \| Independent Research \|  Shanghai Jiao Tong University
   * Studying the pose of camera, using SIFT and ORB algorithms to find and match feature points of sequential frame
 
 ## WORK EXPERIENCES
-* **Sep. 2025 - Present &ensp;&ensp; Teaching Assistant** | Machine Learning | ENSTA, IP-Paris 
+* **Sep. 2025 - Present &ensp;&ensp; Teaching Assistant** \| Machine Learning \| ENSTA, IP-Paris 
   * Main work: Responsible for one group of tutorials (TD), correcting the exercise and answering questions. 
 
-* **Mar. 2025 - Jun. 2025 &ensp;&ensp; Teaching Assistant** | C Programming Language | 21h | ENSTA, IP-Paris
+* **Mar. 2025 - Jun. 2025 &ensp;&ensp; Teaching Assistant** \| C Programming Language \| 21h \| ENSTA, IP-Paris
   * Main work: Proposing C Project, answering questions, evaluating and noting.
 
-* **Mar. 2023 - Jun. 2023 &ensp;&ensp; Teaching Assistant** | Mobile Robotics | 15h | SPEIT, Shanghai Jiao Tong University
+* **Mar. 2023 - Jun. 2023 &ensp;&ensp; Teaching Assistant** \| Mobile Robotics \| 15h \| SPEIT, Shanghai Jiao Tong University
   * Main work: Teaching students exercise courses, helping teachers correct homework, proctoring the exam.
 
 
 ## SUMMER SCHOOL EXPERIENCES                                                           
-* **Sep. 1 - Sep. 5, 2025 &ensp;&ensp; PRAIRIE AI** Summer School (P.A.I.S.S.) | Grenoble | France
+* **Sep. 1 - Sep. 5, 2025 &ensp;&ensp; PRAIRIE AI** Summer School (P.A.I.S.S.) \| Grenoble \| France
   * Lectures of 19 hours and tutorial of 4 hours, Comprehensive learning on Robotics Control and Optimization; Retrieving, Generating, and Refining for Recognition; Diffusion Flows in Machine Learning; Reinforcement Learning; AI Security; AI Ethics; Data-Driven 3D Vision; Video Understanding Out of the Frame; Weakly Supervised Multi-Label Prediction.
 
-* **Jun. 22 - Jun. 28, 2025 &ensp;&ensp; Treatment of Signal and Images** | Peyresq | France 
+* **Jun. 22 - Jun. 28, 2025 &ensp;&ensp; Treatment of Signal and Images** \| Peyresq \| France 
   * Courses of 21 hours, Comprehensive leaning on Bayesian Estimation and Uncertainty Quantification; Sensibility Analysis, Variance Decomposition; Interpretability of Machine Learning; Conformal Prediction; Gaussian Process; Sequential Learning. 
 
 
-* **Jun. 30 - Jul. 5, 2024 &ensp;&ensp; ETH RobotX** Summer School | Epeisses | Switzerland
+* **Jun. 30 - Jul. 5, 2024 &ensp;&ensp; ETH RobotX** Summer School \| Epeisses \| Switzerland
   * Lectures of 8 hours, tutorials of 10 hours, research talks of 3 hours and student hands-on work on robotic platforms of at least 28 hours, with a focus on state estimation, localization and mapping, trajectory optimization, path planning, exploration and camera modeling and geometry.
 
-* **Jun. 8 - Jun. 10, 2024 &ensp;&ensp; AERO-TRAIN** Summer School | Chania | Greece
+* **Jun. 8 - Jun. 10, 2024 &ensp;&ensp; AERO-TRAIN** Summer School \| Chania \| Greece
   * Lectures on Perception, planning, control and Human-Robot Interaction.
 
 ## HONORS & AWARDS

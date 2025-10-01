@@ -97,7 +97,7 @@ learning methods can successfully perform unpaired motion retargeting, as a simp
 
 ## Video Presentation
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="../images/2022Keraal/video.png">
+  <video controls="true" allowfullscreen="true" poster="../images/2022Keraal/video.png" width = 500>
     <source src="../files/Trailer_ProjetKERAAL_STF.mp4" type="video/mp4">
   </video>
 </figure>

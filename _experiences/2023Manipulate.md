@@ -107,7 +107,7 @@ The experiment in real world is shown in Fig. 2.
 ## Videos
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="../images/2023Manipulate/ziqi_video_front.jpg">
+  <video controls="true" allowfullscreen="true" poster="../images/2023Manipulate/ziqi_video_front.jpg" width = 500>
     <source src="../files/ziqi_video.mp4" type="video/mp4">
   </video>
 </figure>
