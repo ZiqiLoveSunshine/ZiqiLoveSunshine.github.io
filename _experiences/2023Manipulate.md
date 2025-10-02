@@ -75,8 +75,8 @@ with the additional offset and scale, the style reward is bounded between $[0, 1
 
 ## Experiment Result
 We compare HMAMP against the following baseline methods:
-- Direct Path-Planning Control Policy (DPPCP): This baseline approach determines manipulation actions using predefined path-planning strategies. In this method, proportional-derivative (PD) control is employed to generate a planned trajectory guiding the hammer from its initial position to the nail.
-- Reinforcement Learning without AMP (RL-noAMP): This baseline approach uses a standard reinforcement learning method for the agent to acquire manipulation skills. The configuration of this approach is identical to that of HMAMP, except that the adversarial motion priors (AMP) component is removed. The training process follows the same procedure as in HMAMP.
+- **Direct Path-Planning Control Policy (DPPCP)**: This baseline approach determines manipulation actions using predefined path-planning strategies. In this method, proportional-derivative (PD) control is employed to generate a planned trajectory guiding the hammer from its initial position to the nail.
+- **Reinforcement Learning without AMP (RL-noAMP)**: This baseline approach uses a standard reinforcement learning method for the agent to acquire manipulation skills. The configuration of this approach is identical to that of HMAMP, except that the adversarial motion priors (AMP) component is removed. The training process follows the same procedure as in HMAMP.
 
 To quantitatively evaluate the performance of each approach, we define the following criterias:
 - **Knock Impulse**: A measure of the knock effect received by the nail. It is calculated by the formula : $I = \int F_{nail}(t) \, dt$. Large Impulse means the nail receives large force at one instance.
