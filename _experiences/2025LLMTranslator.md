@@ -13,7 +13,7 @@ Emergent symbolic representations are critical for enabling developmental learni
 
 The [STAR algorithm](https://inria.hal.science/hal-04629549/document) is a reinforcement learning algorithm that uses a three-layered hierarchical structure: 
 
-* Commander: the top-level agent plans the long-horizon path by setting intermediate goals. It is trained by Q-learning which chooses an abstract goal $G \in \mathcal{G}$ every $k$ steps that should help to reach the task goal $g^{*}$ from the current agent's state $(G_{t+k} \sim \pi_{Comm} (s_t, g^{*}))$. 
+* Commander: the top-level agent plans the long-horizon path by setting intermediate goals. It is trained by Q-learning which chooses an abstract goal $G \in \mathcal{G}$ every $k$ steps that should help to reach the task goal $g^{\*}$ from the current agent's state $(G_{t+k} \sim \pi_{Comm} (s_t, g^{\*}))$. 
 
 * Tutor: the mid-level agent trained by TD3 which picks subgoals in the state space every $l$ steps $(g_{t+l} \sim \pi_{Tut}\left(s_t,G_{t+k}\right))$. We note that $k$ is a multiple of $l$.
 
