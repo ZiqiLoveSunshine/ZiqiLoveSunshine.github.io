@@ -38,7 +38,7 @@ To dynamically balance between the original STAR Commander and the LLM-based pla
 
 **Initialization.** For the first $N$ decision steps, the planner is chosen randomly between the STAR Commander and LLM in order to populate both buffers with initial experience.
 
-**Progress signal.** At each timestep $t$, let $m \in \mathcal{M}=\{STAR, LLM\}$ denote the planner used, known that $ \mathcal{G}_t $ is the partition of the space that has the same update mechanism as STAR, let $g_t = \phi(s_t, \mathcal{G}_t)$ be the current region where agent's current state belongs to in the partition $\mathcal{G}$. We define the incremental reward difference:
+**Progress signal.** At each timestep $t$, let $m \in \mathcal{M}=\{STAR, LLM\}$ denote the planner used, known that $\mathcal{G}\_{t}$ is the partition of the space that has the same update mechanism as STAR, let $g_t = \phi(s_t, \mathcal{G}\_{t})$ be the current region where agent's current state belongs to in the partition $\mathcal{G}$. We define the incremental reward difference:
 $
 \Delta_t = r_t - r_{t-1}
 $

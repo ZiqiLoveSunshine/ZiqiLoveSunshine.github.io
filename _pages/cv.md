@@ -41,20 +41,18 @@ redirect_from:
 
   
 ## PUBLICATIONS
-* **Ma, Z.**, Nguyen, S. M., and Xu P. Leveraging LLM with Active Imitation Learning of Hierarchical 
-Reinforcement Learning Using Emergent Symbolic Representation. Submitted to: 2026 IEEE 
-International conference on robotics and automation (ICRA). 
+* **Ma, Z.**, Nguyen, S. M., and Xu P. [Leveraging LLM with Active Imitation Learning of Hierarchical Reinforcement Learning Using Emergent Symbolic Representation](../files/LLM_in_Active_Imitation_Learning_of_RL_ICRA.pdf). Submitted to: *2026 IEEE International conference on robotics and automation (ICRA)*.
 
 
 
-* **Ma, Z.**, Nguyen, S. M., and Xu P. (2025). [Bridging Symbols from Language and Hierarchical Reinforcement Learning with Active Imitation.](https://openreview.net/forum?id=70MsTviEVL&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FWorkshop%2FLAW%2FAuthors%23your-submissions)) NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning. 
+* **Ma, Z.**, Nguyen, S. M., and Xu P. (2025). [Bridging Symbols from Language and Hierarchical Reinforcement Learning with Active Imitation.](https://openreview.net/forum?id=70MsTviEVL&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FWorkshop%2FLAW%2FAuthors%23your-submissions)) *NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning*. 
 
-* **Ma, Z.**, Nguyen, S. M., and Xu P. (2025). Can LLMs Translate Human Instructions into a Reinforcement Learning Agent’s Internal Emergent Symbolic Representation? RO-MAN 2025 1st Workshop on Interactive Task Learning in Human-Robot co-construction (ITL4HRI). 
+* **Ma, Z.**, Nguyen, S. M., and Xu P. (2025). [Can LLMs Translate Human Instructions into a Reinforcement Learning Agent’s Internal Emergent Symbolic Representation?](../files/LLM_on_emergent_agency_CEUR_Workshop.pdf) *RO-MAN 2025 1st Workshop on Interactive Task Learning in Human-Robot co-construction (ITL4HRI)*. 
 
-* **Ma Z.**, Tian C, Gao Y.(2025) [**Manipulate as human: learning task-oriented manipulation skills by adversarial motion priors.**](https://www.cambridge.org/core/journals/robotica/article/abs/manipulate-as-human-learning-taskoriented-manipulation-skills-by-adversarial-motion-priors/74AC9205DD0BB47D7905E4764B4E61F2) ,Robotica, pp. 1–13. doi:10.1017/S0263574725001444. 
+* **Ma Z.**, Tian C, Gao Y.(2025) [Manipulate as human: learning task-oriented manipulation skills by adversarial motion priors.](https://www.cambridge.org/core/journals/robotica/article/abs/manipulate-as-human-learning-taskoriented-manipulation-skills-by-adversarial-motion-priors/74AC9205DD0BB47D7905E4764B4E61F2), *Robotica, pp. 1–13. doi:10.1017/S0263574725001444*.
 
 
-* Annabi, L., **Ma, Z.**, and Nguyen, S. M. (2024). [**Unsupervised Motion Retargeting for Human-Robot Imitation**](https://arxiv.org/abs/2402.05115). Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (587--591). Association for Computing Machinery (rank A conference)
+* Annabi, L., **Ma, Z.**, and Nguyen, S. M. (2024). [Unsupervised Motion Retargeting for Human-Robot Imitation](https://arxiv.org/abs/2402.05115). *Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (587--591). Association for Computing Machinery (rank A conference)*
 
 
 
